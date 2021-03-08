@@ -1,0 +1,26 @@
+.rouge{
+    background-color: red;
+    color:red;
+    width:  30%;
+    height: 50%;
+}
+
+div{
+    height: 600px;
+    width: 600px;
+    background-color: red;
+}
+
+.carre1{
+    background-color: red;
+}
+.carre2{
+    background-color: seagreen;
+}
+.carre3{
+    background-color: blue;
+}
+
+.border{
+    border: 20px solid black;
+}

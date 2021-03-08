@@ -1,0 +1,33 @@
+.cercle3{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: blue;
+    position: relative;
+    left: 33%;
+    top: 30%;
+
+}
+
+.cercle2{
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+    background-color: green;
+    position: absolute;
+    left: 22%;
+    top: 20%;
+}
+
+.cercle1{
+    width: 200px;
+    height: 200px;
+    border-radius: 125px;
+    background-color: red;
+    position: absolute;
+    top: 30%;
+    right: 40%;
+}
+
+
+
